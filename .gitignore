@@ -1,0 +1,17 @@
+# General
+.DS_Store
+.idea/
+.vscode/
+.env
+
+# Python (Backend)
+backend/venv/
+backend/app/__pycache__/
+backend/app/*.pyc
+backend/cloud_security.db
+backend/isolation_forest_model.joblib
+
+# Node.js (Frontend)
+frontend/node_modules/
+frontend/dist/
+frontend/coverage/
